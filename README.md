@@ -8,4 +8,4 @@
 
 ![Ling's GitHub stats](https://github-readme-stats.vercel.app/api?username=ling-nyc&count_private=true&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/ling-nyc/ling-nyc/blob/output/balls.svg)
+![Snake animation](https://raw.githubusercontent.com/ling-nyc/ling-nyc/main/balls.svg)

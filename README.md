@@ -8,4 +8,6 @@
 
 ![Ling's GitHub stats](https://github-readme-stats.vercel.app/api?username=ling-nyc&count_private=true&show_icons=true&theme=radical)
 
+![Discord](https://lanyard-profile-readme.vercel.app/api/822679038434213908)
+
 ![Snake animation](https://raw.githubusercontent.com/ling-nyc/ling-nyc/main/balls.svg)

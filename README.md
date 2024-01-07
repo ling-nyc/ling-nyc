@@ -10,4 +10,3 @@
 
 ![Discord](https://lanyard-profile-readme.vercel.app/api/822679038434213908)
 
-![Snake animation](https://raw.githubusercontent.com/ling-nyc/ling-nyc/main/balls.svg)
